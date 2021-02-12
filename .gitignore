@@ -1,0 +1,13 @@
+Library/**
+Logs/**
+obj/**
+Packages/**
+ProjectSettings/**
+Temp/**
+*.csproj
+*.sln
+Assets/Plugins/GitHub/**
+Assets/Plugins/GitHub
+*.meta
+.idea/**
+*.swp
